@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishra3452&label=Views&color=blue&style=plastic" alt="mishra3452" /> </p> -->
 
-- 🖥️ I’m currently working at [100PiLabs](https://100pilabs.com/) as an Android Enginner 🧑‍💻🧑‍💻🧑‍💻
+- 🖥️ I’m currently working at [100PiLabs](https://100pilabs.com/) as an Android Engineer 🧑‍💻🧑‍💻🧑‍💻
 - ✍🏻 I write technical/nontech blogs on [Android, Life, Motivation](https://medium.com/@wandering.soul)
 <!-- - 🏏 Fun fact: I'm a Kohli fan, but that doesn't mean I hate Dhoni -->
 
